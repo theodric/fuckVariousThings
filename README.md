@@ -6,7 +6,7 @@ Using this amazing and innovative application, you can instruct your computer to
 
 ![normal run](/FuckThings.png)
 
-Written in VB6. If you don't feel like compiling it, you'll find a binary in /release within this repo.
+The code is written in Visual Basic 6 EE. If you don't feel like compiling it, you'll find a binary in /release within this repo.
 
 
 The marquee is AxMrquee.ocx, also provided in this repo in /AxMrquee. This marquee control was included as sample code in 1997's Microsoft Visual Basic 5 Control Creation Edition release.
