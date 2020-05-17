@@ -1,8 +1,7 @@
 # fuckVariousThings
 A galaxy-brain level app written in VB6 which allows you to express your displeasure on a scrolling marquee
 
-#### fuckThings.exe
-Using this amazing and innovative application, you can instruct your computer to display instructions on what you can go and fuck, be that you, your mom, your dad, your horse, or anything else of your choosing!
+With this amazing and innovative application, you can instruct your computer to display instructions on what you can go and fuck, be that you, your mom, your dad, your horse, or anything else of your choosing!
 
 ![normal run](/FuckThings.png)
 
