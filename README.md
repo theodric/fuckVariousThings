@@ -9,5 +9,5 @@ Using this amazing and innovative application, you can instruct your computer to
 The code is written in Visual Basic 6 EE. If you don't feel like compiling it, you'll find a binary in /bin within this repo.
 
 
-The marquee is AxMrquee.ocx, also provided in this repo in /AxMrquee. This marquee control was included as sample code in 1997's Microsoft Visual Basic 5 Control Creation Edition release.
+The ActiveX marquee control is AxMrquee.ocx, also provided in this repo in /AxMrquee, and  was originally released as sample code with 1997's Microsoft Visual Basic 5 Control Creation Edition.
 
